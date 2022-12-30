@@ -59,7 +59,7 @@ class telegraph
 
 }
 
-$myToken = "01db0643501fb131336ba3f41fbae564f933e9a2f8e90f80c60d37bae95e";
+$myToken = "your_token";
 
 $tphManager = new telegraph($myToken);
 
